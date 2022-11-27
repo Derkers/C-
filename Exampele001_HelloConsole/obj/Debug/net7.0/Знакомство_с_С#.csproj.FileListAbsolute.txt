@@ -1,0 +1,15 @@
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\bin\Debug\net7.0\Знакомство_с_С#.exe
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\bin\Debug\net7.0\Знакомство_с_С#.deps.json
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\bin\Debug\net7.0\Знакомство_с_С#.runtimeconfig.json
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\bin\Debug\net7.0\Знакомство_с_С#.dll
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\bin\Debug\net7.0\Знакомство_с_С#.pdb
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\Знакомство_с_С#.csproj.AssemblyReference.cache
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\Знакомство_с_С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\Знакомство_с_С#.AssemblyInfoInputs.cache
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\Знакомство_с_С#.AssemblyInfo.cs
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\Знакомство_с_С#.csproj.CoreCompileInputs.cache
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\Знакомство_с_С#.dll
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\refint\Знакомство_с_С#.dll
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\Знакомство_с_С#.pdb
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\Знакомство_с_С#.genruntimeconfig.cache
+C:\Users\Game\Documents\Разработчик\Знакомство_с_С#\obj\Debug\net7.0\ref\Знакомство_с_С#.dll
